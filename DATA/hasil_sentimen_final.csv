@@ -1,0 +1,101 @@
+﻿id_review;marketplace;produk;rating;komentar;komentar_bersih;sentimen_lexicon;skor_lexicon;sentimen
+1;Blibli;Power Bank;1;Barang rusak saat diterima;barang rusak saat diterima;Negatif;-1;Negatif
+2;Lazada;Keyboard;4;Belanja di sini memuaskan;belanja di sini memuaskan;Positif;1;Positif
+3;Blibli;Headset;1;Produk tidak sesuai gambar;produk tidak sesuai gambar;Netral;0;Negatif
+4;Tokopedia;Power Bank;4;Produk sangat bagus dan sesuai deskripsi;produk sangat bagus dan sesuai deskripsi;Positif;3;Positif
+5;Blibli;Keyboard;2;Barang rusak saat diterima;barang rusak saat diterima;Negatif;-1;Negatif
+6;Blibli;Jam Tangan;1;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+7;Tokopedia;Smartphone;2;Barang palsu dan tidak original;barang palsu dan tidak original;Negatif;-1;Negatif
+8;Tokopedia;Headset;2;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+9;Blibli;Power Bank;3;Barang sesuai ukuran;barang sesuai ukuran;Positif;1;Netral
+10;Tokopedia;Laptop;1;Produk tidak sesuai gambar;produk tidak sesuai gambar;Netral;0;Negatif
+11;Tokopedia;Baju;1;Kualitas buruk dan mengecewakan;kualitas buruk dan mengecewakan;Negatif;-1;Negatif
+12;Lazada;Mouse;5;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+13;Shopee;Sepatu;4;Produk sangat bagus dan sesuai deskripsi;produk sangat bagus dan sesuai deskripsi;Positif;3;Positif
+14;Shopee;Keyboard;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+15;Shopee;Baju;4;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+16;Tokopedia;Smartphone;4;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+17;Tokopedia;Keyboard;4;Produk sangat bagus dan sesuai deskripsi;produk sangat bagus dan sesuai deskripsi;Positif;3;Positif
+18;Lazada;Headset;2;Produk tidak sesuai gambar;produk tidak sesuai gambar;Netral;0;Negatif
+19;Lazada;Power Bank;5;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+20;Shopee;Smartphone;2;Barang palsu dan tidak original;barang palsu dan tidak original;Negatif;-1;Negatif
+21;Lazada;Keyboard;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+22;Shopee;Mouse;3;Barang sesuai ukuran;barang sesuai ukuran;Positif;1;Netral
+23;Tokopedia;Jam Tangan;2;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+24;Tokopedia;Mouse;3;Produk sesuai pesanan;produk sesuai pesanan;Positif;1;Netral
+25;Lazada;Keyboard;2;Barang palsu dan tidak original;barang palsu dan tidak original;Negatif;-1;Negatif
+26;Tokopedia;Sepatu;3;Tidak ada masalah berarti;tidak ada masalah berarti;Negatif;-2;Netral
+27;Shopee;Smartphone;2;Pengiriman sangat lambat;pengiriman sangat lambat;Negatif;-1;Negatif
+28;Blibli;Baju;3;Pesanan datang tepat waktu;pesanan datang tepat waktu;Netral;0;Netral
+29;Tokopedia;Jam Tangan;4;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+30;Lazada;Tas;4;Sangat recommended untuk dibeli;sangat recommended untuk dibeli;Positif;1;Positif
+31;Shopee;Headset;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+32;Tokopedia;Smartphone;2;Kualitas buruk dan mengecewakan;kualitas buruk dan mengecewakan;Negatif;-1;Negatif
+33;Lazada;Keyboard;1;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+34;Lazada;Baju;5;Pengiriman cepat dan packing rapi;pengiriman cepat dan packing rapi;Positif;2;Positif
+35;Tokopedia;Power Bank;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+36;Lazada;Tas;3;Pengiriman standar;pengiriman standar;Netral;0;Netral
+37;Blibli;Jam Tangan;3;Produk dapat digunakan;produk dapat digunakan;Netral;0;Netral
+38;Lazada;Sepatu;4;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+39;Blibli;Power Bank;3;Pengiriman standar;pengiriman standar;Netral;0;Netral
+40;Lazada;Smartphone;1;Saya kecewa dengan produk ini;saya kecewa dengan produk ini;Negatif;-1;Negatif
+41;Tokopedia;Headset;1;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+42;Lazada;Keyboard;2;Ukuran tidak sesuai;ukuran tidak sesuai;Netral;0;Negatif
+43;Lazada;Jam Tangan;4;Harga murah kualitas mantap;harga murah kualitas mantap;Positif;3;Positif
+44;Blibli;Smartphone;1;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+45;Shopee;Sepatu;1;Barang rusak saat diterima;barang rusak saat diterima;Negatif;-1;Negatif
+46;Tokopedia;Mouse;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+47;Shopee;Baju;2;Packing jelek dan barang penyok;packing jelek dan barang penyok;Negatif;-1;Negatif
+48;Tokopedia;Keyboard;3;Harga cukup sesuai;harga cukup sesuai;Positif;1;Netral
+49;Blibli;Headset;1;Saya kecewa dengan produk ini;saya kecewa dengan produk ini;Negatif;-1;Negatif
+50;Lazada;Headset;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+51;Lazada;Baju;3;Packing biasa saja;packing biasa saja;Netral;0;Netral
+52;Shopee;Jam Tangan;4;Seller responsif dan ramah;seller responsif dan ramah;Netral;0;Positif
+53;Tokopedia;Keyboard;3;Harga cukup sesuai;harga cukup sesuai;Positif;1;Netral
+54;Lazada;Baju;4;Ukuran pas dan nyaman digunakan;ukuran pas dan nyaman digunakan;Positif;2;Positif
+55;Tokopedia;Mouse;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+56;Lazada;Smartphone;3;Barang sesuai ukuran;barang sesuai ukuran;Positif;1;Netral
+57;Blibli;Headset;3;Pesanan datang tepat waktu;pesanan datang tepat waktu;Netral;0;Netral
+58;Shopee;Baju;3;Pesanan datang tepat waktu;pesanan datang tepat waktu;Netral;0;Netral
+59;Lazada;Laptop;2;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+60;Blibli;Power Bank;5;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+61;Lazada;Jam Tangan;4;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+62;Lazada;Baju;4;Ukuran pas dan nyaman digunakan;ukuran pas dan nyaman digunakan;Positif;2;Positif
+63;Tokopedia;Power Bank;1;Ukuran tidak sesuai;ukuran tidak sesuai;Netral;0;Negatif
+64;Shopee;Keyboard;5;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+65;Lazada;Mouse;4;Ukuran pas dan nyaman digunakan;ukuran pas dan nyaman digunakan;Positif;2;Positif
+66;Shopee;Baju;1;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+67;Lazada;Sepatu;4;Belanja di sini memuaskan;belanja di sini memuaskan;Positif;1;Positif
+68;Lazada;Baju;3;Harga cukup sesuai;harga cukup sesuai;Positif;1;Netral
+69;Tokopedia;Laptop;5;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+70;Tokopedia;Smartphone;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+71;Blibli;Baju;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+72;Shopee;Headset;1;Barang rusak saat diterima;barang rusak saat diterima;Negatif;-1;Negatif
+73;Blibli;Laptop;4;Produk sangat bagus dan sesuai deskripsi;produk sangat bagus dan sesuai deskripsi;Positif;3;Positif
+74;Tokopedia;Mouse;1;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+75;Tokopedia;Mouse;3;Pengalaman belanja biasa saja;pengalaman belanja biasa saja;Netral;0;Netral
+76;Shopee;Keyboard;3;Packing biasa saja;packing biasa saja;Netral;0;Netral
+77;Blibli;Smartphone;5;Belanja di sini memuaskan;belanja di sini memuaskan;Positif;1;Positif
+78;Tokopedia;Baju;2;Ukuran tidak sesuai;ukuran tidak sesuai;Netral;0;Negatif
+79;Tokopedia;Keyboard;2;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+80;Shopee;Laptop;5;Pengiriman cepat dan packing rapi;pengiriman cepat dan packing rapi;Positif;2;Positif
+81;Tokopedia;Smartphone;5;Ukuran pas dan nyaman digunakan;ukuran pas dan nyaman digunakan;Positif;2;Positif
+82;Shopee;Baju;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+83;Blibli;Tas;3;Packing biasa saja;packing biasa saja;Netral;0;Netral
+84;Shopee;Sepatu;2;Ukuran tidak sesuai;ukuran tidak sesuai;Netral;0;Negatif
+85;Tokopedia;Smartphone;3;Barang sudah diterima;barang sudah diterima;Netral;0;Netral
+86;Shopee;Baju;1;Produk tidak sesuai gambar;produk tidak sesuai gambar;Netral;0;Negatif
+87;Blibli;Keyboard;4;Barang original dan berfungsi baik;barang original dan berfungsi baik;Positif;2;Positif
+88;Shopee;Sepatu;5;Kualitas melebihi ekspektasi;kualitas melebihi ekspektasi;Positif;1;Positif
+89;Blibli;Mouse;1;Ukuran tidak sesuai;ukuran tidak sesuai;Netral;0;Negatif
+90;Shopee;Tas;2;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+91;Lazada;Baju;1;Produk cepat rusak;produk cepat rusak;Netral;0;Negatif
+92;Tokopedia;Headset;3;Produk dapat digunakan;produk dapat digunakan;Netral;0;Netral
+93;Lazada;Smartphone;3;Pengiriman standar;pengiriman standar;Netral;0;Netral
+94;Shopee;Laptop;3;Produk sesuai pesanan;produk sesuai pesanan;Positif;1;Netral
+95;Shopee;Power Bank;3;Produk dapat digunakan;produk dapat digunakan;Netral;0;Netral
+96;Tokopedia;Sepatu;4;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+97;Shopee;Smartphone;2;Seller tidak responsif;seller tidak responsif;Negatif;-1;Negatif
+98;Lazada;Power Bank;5;Saya puas dengan kualitas barang;saya puas dengan kualitas barang;Positif;2;Positif
+99;Blibli;Headset;2;Saya kecewa dengan produk ini;saya kecewa dengan produk ini;Negatif;-1;Negatif
+100;Shopee;Mouse;3;Packing biasa saja;packing biasa saja;Netral;0;Netral
